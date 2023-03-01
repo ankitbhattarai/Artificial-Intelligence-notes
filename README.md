@@ -1,1 +1,1 @@
-# AI_notes
+# Artificial Intelligence_notes
